@@ -1,4 +1,4 @@
 ## DIGICAM<333
-designed to replicate vintage didgicam feel and image outputs using the pre-existing iphone camera
+designed to replicate vintage digicam feel and image outputs using the pre-existing iphone camera
 
 
